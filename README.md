@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisa Kahar</h1>
-<h3 align="center">A passionate Product Designer from Malaysia. My old github account got suspended for no reason. So, I make a new one.</h3>
+<h3 align="center">A passionate Product Designer from Malaysia. My old github is for school. So, I make a new one.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uxnisakahar&label=Profile%20views&color=0e75b6&style=flat" alt="uxnisakahar" /> </p>
 
